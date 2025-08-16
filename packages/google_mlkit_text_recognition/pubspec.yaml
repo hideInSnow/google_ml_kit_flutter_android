@@ -14,7 +14,7 @@ dependencies:
   google_mlkit_commons_android:
     git:
       url: git@github.com:hideInSnow/google_ml_kit_flutter_android.git
-      ref: 59890156f2aab9f7345c649ae005d43c2825fd0f
+      ref: develop
       path: packages/google_mlkit_commons
 
 dev_dependencies:
