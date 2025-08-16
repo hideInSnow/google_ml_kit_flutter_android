@@ -1,4 +1,4 @@
-name: google_mlkit_commons_android
+name: google_mlkit_commons
 description: "A Flutter plugin with commons files to implement google's standalone ml kit made for mobile platform."
 version: 0.11.0+android.1
 homepage: https://github.com/flutter-ml/google_ml_kit_flutter
